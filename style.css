@@ -1,0 +1,27 @@
+#d1
+{
+  float:left;
+  width: 50%;
+}
+#d2
+{
+  background: white;
+  float:
+  width:50%;
+  padding:30px;
+}
+#d2 #p1
+{
+  color: CornflowerBlue ;
+  font-size: 20px;
+  font-family: monospace;
+}
+#d2 #p2
+{
+  font-size: 30px;
+}
+#d2 #p3
+{
+  font-size: 20px;
+  color: grey;
+}
